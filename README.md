@@ -2,7 +2,7 @@
 
 * This repository started from 2021-12-16 (but also included previous materials)
 * Record what I study every day
-* Contents is sorted alphabetically.
+* List of contents is sorted alphabetically.
 
 ---
 ## Data structure & Algorithm
@@ -12,6 +12,9 @@
 
 * HackerRank
     * [3Month Preparation Kit](https://github.com/doheuncho/TIL/tree/main/HackerRank/3Month%20Preparation%20Kit)
+
+* LeetCode
+    * [Weekly Special](https://github.com/doheuncho/TIL/tree/main/LeetCode/Weekly%20Special)
 
 
 ## Machine Learning
