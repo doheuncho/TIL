@@ -19,7 +19,7 @@
     * [Weekly Special](https://github.com/doheuncho/TIL/tree/main/LeetCode/Weekly%20Special)
 
 
-## Machine Learning
+## Machine Learning & Deep Learning
 
 * Text book
 
