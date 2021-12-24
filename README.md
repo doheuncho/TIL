@@ -28,3 +28,8 @@
 * Task
 
     * [Yeardream AI Course Task](https://github.com/doheuncho/TIL/tree/main/Yeardream/Artificial%20Intelligence%20Course/Task)
+
+* Class Review
+
+    * [Yeardream AI Course Training](https://github.com/doheuncho/TIL/tree/main/Yeardream/Artificial%20Intelligence%20Course/Training)
+    
