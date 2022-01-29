@@ -60,7 +60,6 @@ def reverse(llist):
     next_target = node
     
     while next_target.next:
-        print('yes')
         next_target = node.next
         node.next = next_node
         next_node = node
