@@ -14,6 +14,7 @@
 * 35816 rows for test data
 
 # My works
+
 * change unnecessary one-hot encode columns to one feature
 * remove duplicated features
 * remove outliar
