@@ -8,9 +8,9 @@
 
 - 프로젝트 개발 기간: 2021.11.08~2021.12.02(4주)
 - 데이터: 서울특별시 코로나19 확진자 발생동향(서울열린데이터광장) : https://data.seoul.go.kr/dataList/OA-20461/S/1/datasetView.do <br>
-  2008~2020 서울교통공사 연도별 일별 시간대별 역별 승하차 인원: https://data.seoul.go.kr/dataList/OA-12921/F/1/datasetView.do <br>
+  2008 ~ 2020 서울교통공사 연도별 일별 시간대별 역별 승하차 인원: https://data.seoul.go.kr/dataList/OA-12921/F/1/datasetView.do <br>
   서울시 지하철호 선별 역별 승하차 인원 정보: https://data.seoul.go.kr/dataList/OA-12914/S/1/datasetView.do# <br>
-  2015~2020 서울시 버스노선별 정류장별 승하차 인원 정보: https://data.seoul.go.kr/dataList/OA-12912/S/1/datasetView.do# <br>
+  2015 ~ 2020 서울시 버스노선별 정류장별 승하차 인원 정보: https://data.seoul.go.kr/dataList/OA-12912/S/1/datasetView.do# <br>
   2020 6월 ~ 2021년 10월 지역별, 시간대별 승차 버스 데이터(인스파일러) : https://insfiler.com/detail/rt_transit_day-0005?category=total <br>
 
 - 기술 스택 (python, spark, pandas, jupyter, javascript, html, css, Tableau, AWS, flask 등)
