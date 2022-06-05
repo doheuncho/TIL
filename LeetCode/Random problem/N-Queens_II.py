@@ -29,3 +29,4 @@ class Solution:
             col.remove(c)
         
         return result
+        
