@@ -8,7 +8,7 @@
 #         self.right = right
 class Solution:
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
-        def dfs(node):
+        def dfs(node: Optional[TreeNode]) -> int:
             if not node:
                 return []
             

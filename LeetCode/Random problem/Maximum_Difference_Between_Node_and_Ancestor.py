@@ -11,7 +11,7 @@ class Solution:
         if not root:
             return 0
 
-        def dfs(node, cur_max, cur_min):
+        def dfs(node: Optional[TreeNode], cur_max: int, cur_min: int) -> int:
             if not node:
                 return cur_max - cur_min
 
