@@ -5,7 +5,7 @@ class Solution:
         distance_from_1, distance_from_2 = [-1] * len(edges), [-1] * len(edges)
         result = -1
 
-        def dfs(node: int, dist: int, distance_array: List[int]) -> None:
+        def dfs(node: int, dist: int, distance_array: List[int]):
             if node != -1 and distance_array[node] == -1:
                 distance_array[node] = dist
                 dfs(edges[node], dist + 1, distance_array)
