@@ -19,7 +19,7 @@ class Solution:
             url = queue.pop(0)
             for x in htmlParser.getUrls(url):
                 if x not in result and name == x.split('/')[2]:
-                    queue.append(x)
                     result.add(x)
+                    queue.append(x)
 
         return list(result)
