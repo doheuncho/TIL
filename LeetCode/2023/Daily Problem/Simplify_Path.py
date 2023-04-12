@@ -8,11 +8,11 @@ class Solution:
         for directory in path:
             if not directory:
                 continue
-            elif directory != '.':
-                stack.append(directory)
             elif directory == '..':
                 if stack:
                     stack.pop()
+            elif directory != '.':
+                stack.append(directory)
 
         return '/' + '/'.join(stack)
         
