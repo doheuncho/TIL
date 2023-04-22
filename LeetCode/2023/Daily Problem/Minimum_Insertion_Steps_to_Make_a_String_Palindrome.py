@@ -15,4 +15,4 @@ class Solution:
                     dp[j] = min(dp[j], dp[j-1]) + 1
                 prev = temp
 
-        return dp[n-1]
+        return dp[-1]
