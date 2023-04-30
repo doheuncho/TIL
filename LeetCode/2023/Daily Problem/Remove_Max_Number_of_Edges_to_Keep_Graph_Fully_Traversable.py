@@ -27,16 +27,16 @@ class Solution:
                     result += 1
         roots_copy = roots[:]
 
-        for t, i, j in edges:
+        for t, u, v in edges:
             if t == 1:
-                if union(i, j, roots_copy):
+                if union(u, v, roots_copy):
                     alice_edges += 1
                 else:
                     result += 1
         
-        for t, i, j in edges:
+        for t, u, v in edges:
             if t == 2:
-                if union(i, j, roots):
+                if union(u, v, roots):
                     bob_edges += 1
                 else:
                     result += 1
