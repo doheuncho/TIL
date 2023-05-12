@@ -3,7 +3,6 @@
 * This repository started from 2021-12-16 (but also included previous materials)
 * Record what I study every day
 * List of contents is sorted alphabetically.
-* last week of March 2022 ~ first week of April 2022 : I got rest because I got sick with COVID-19
 
 ---
 ## Data structure & Algorithm
