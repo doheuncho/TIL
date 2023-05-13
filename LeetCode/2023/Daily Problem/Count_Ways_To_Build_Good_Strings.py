@@ -11,8 +11,7 @@ class Solution:
             dp[i] = (dp[i] + dp[i - small]) % modulo
             
         for i in range(big, high + 1):
-            dp[i] = (dp[i] + dp[i - small]) % modulo
-            dp[i] = (dp[i] + dp[i - big]) % modulo
+            dp[i] = (dp[i] + dp[i - small] + dp[i - big]) % modulo
 
         result = 0
 
